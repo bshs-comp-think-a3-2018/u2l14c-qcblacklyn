@@ -1,0 +1,24 @@
+body {
+  background: white;
+}
+p {
+  color: ;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.copy {
+  color: red;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+.html {
+  color: black;
+}
