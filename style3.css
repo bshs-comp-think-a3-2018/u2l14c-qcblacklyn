@@ -1,0 +1,28 @@
+body {
+  background: white;
+  border-style: solid;
+  border-radius: 15px;
+  margin: auto;
+  border-width: 3px
+}
+p {
+  color:   ;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img{
+  width: 150px;
+  
+}
+
+.copy {
+  color: red;
+}
+
+.html {
+  color:black; 
+}
