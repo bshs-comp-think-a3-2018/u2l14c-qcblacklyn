@@ -1,0 +1,24 @@
+body {
+  background: white;
+}
+p {
+  color: ;
+
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+
+h4 {
+  font-style: italic;
+}
+
+.copy {
+  color: red;
+}
+
+.html {
+  color: black;
+}
